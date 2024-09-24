@@ -1,0 +1,14 @@
+c:\Users\Muhammad Azzam\Learn C#\Latihan\bin\Debug\net8.0\Latihan.exe
+c:\Users\Muhammad Azzam\Learn C#\Latihan\bin\Debug\net8.0\Latihan.deps.json
+c:\Users\Muhammad Azzam\Learn C#\Latihan\bin\Debug\net8.0\Latihan.runtimeconfig.json
+c:\Users\Muhammad Azzam\Learn C#\Latihan\bin\Debug\net8.0\Latihan.dll
+c:\Users\Muhammad Azzam\Learn C#\Latihan\bin\Debug\net8.0\Latihan.pdb
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.AssemblyInfoInputs.cache
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.AssemblyInfo.cs
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.csproj.CoreCompileInputs.cache
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.dll
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\refint\Latihan.dll
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.pdb
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.genruntimeconfig.cache
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\ref\Latihan.dll
