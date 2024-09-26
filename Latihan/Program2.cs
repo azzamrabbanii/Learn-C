@@ -10,13 +10,13 @@ namespace MyApplication{
             if (nilai >= 85){
                 Console.WriteLine("A");
             }
-            else if(nilai > 85){
+            else if(nilai > 70){
                 Console.WriteLine("B");
             }
-            else if(nilai > 83){
+            else if(nilai > 60){
                 Console.WriteLine("C");
             }
-            else if(nilai > 59){
+            else if(nilai > 50){
                 Console.WriteLine("D");
             }
             else {
