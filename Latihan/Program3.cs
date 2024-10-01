@@ -7,7 +7,7 @@ namespace MyApplication{
         {   
             Console.Write("Masukan angka : ");
             int i = int.Parse(Console.ReadLine());
-            if (i % 2 == 0)
+            if (i % 2 == 1)
             {
                 Console.Write("Entered Number is an Even Number");
                 //Console.Read();
