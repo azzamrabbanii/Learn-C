@@ -7,6 +7,7 @@ c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.GeneratedMSBui
 c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.AssemblyInfoInputs.cache
 c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.AssemblyInfo.cs
 c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.csproj.CoreCompileInputs.cache
+c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.sourcelink.json
 c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.dll
 c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\refint\Latihan.dll
 c:\Users\Muhammad Azzam\Learn C#\Latihan\obj\Debug\net8.0\Latihan.pdb

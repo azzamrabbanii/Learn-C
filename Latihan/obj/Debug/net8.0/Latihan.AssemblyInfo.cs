@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Latihan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1e286d1a100bb166dbbff7421367159e830d7ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Latihan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Latihan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
