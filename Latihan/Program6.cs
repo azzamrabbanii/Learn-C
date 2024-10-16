@@ -46,7 +46,7 @@ namespace MyApplication
             // int totalGanjil = 0;
 
             // for (int i = 0; i < bilangan.Length; i++)
-                
+
             // {
             //     if (i % 2 == 0)
             //     {   
@@ -63,8 +63,57 @@ namespace MyApplication
             // Console.WriteLine($"Total bilangan genap: {totalGenap}");
             // Console.WriteLine($"Total bilangan ganjil: {totalGanjil}");
 
-            
+            // int[] angka = {-1,-23,-45,1,23,35,52};
+            // int terbesar = angka[0];
+
+            // for (int i = 0; i < angka.Length;  i++){
+            //     if(angka[i] < 0) {
+            //         continue;
+            //     }
+
+            //     if(angka[i] > terbesar) {
+            //         terbesar = angka[i];
+            //     }
+
+            // }
+            // Console.WriteLine($"Bilangan terbesar dalam array adalah: {terbesar}");
+
+            int[] numbers = { -10, -5, -7, -100};
+            int? largest = null;
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                // Melewatkan bilangan negatif
+                if (numbers[i] < 0)
+                {
+                    continue;
+                }
+
+                // Jika bilangan adalah kelipatan 5, hentikan pencarian dan kembalikan bilangan tersebut
+                if (numbers[i] % 5 == 0)
+                {
+                    largest = numbers[i];
+                    break; // Menghentikan pencarian karena menemukan kelipatan 5
+                }
+
+                // Menentukan bilangan terbesar
+                if (largest == null || numbers[i] > largest)
+                {
+                    largest = numbers[i];
+                }
+            }
+
+            // Jika largest masih null, berarti semua bilangan negatif atau array kosong
+            if (largest == null)
+            {
+                Console.WriteLine("Semua bilangan negatif atau array kosong.");
+            }
+            else
+            {
+                Console.WriteLine($"Bilangan terbesar adalah: {largest}");
+            }
 
         }
     }
 }
+
