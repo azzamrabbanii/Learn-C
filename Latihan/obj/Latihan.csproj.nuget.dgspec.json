@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammad Azzam\\Learn C#\\Latihan\\Latihan.csproj": {}
+    "C:\\Users\\Muhammad Azzam\\Learn C#\\latihan\\Latihan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammad Azzam\\Learn C#\\Latihan\\Latihan.csproj": {
+    "C:\\Users\\Muhammad Azzam\\Learn C#\\latihan\\Latihan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammad Azzam\\Learn C#\\Latihan\\Latihan.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammad Azzam\\Learn C#\\latihan\\Latihan.csproj",
         "projectName": "Latihan",
-        "projectPath": "C:\\Users\\Muhammad Azzam\\Learn C#\\Latihan\\Latihan.csproj",
+        "projectPath": "C:\\Users\\Muhammad Azzam\\Learn C#\\latihan\\Latihan.csproj",
         "packagesPath": "C:\\Users\\Muhammad Azzam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammad Azzam\\Learn C#\\Latihan\\obj\\",
+        "outputPath": "C:\\Users\\Muhammad Azzam\\Learn C#\\latihan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhammad Azzam\\AppData\\Roaming\\NuGet\\NuGet.Config"
