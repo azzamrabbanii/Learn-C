@@ -1,22 +1,22 @@
+
+string correctUsername = "azzam";
+string correctPassword = "azzam321";
+
 while (true)
 {
-    Console.WriteLine("Enter the triangle height : ");
-    string? input = Console.ReadLine();
-    if (int.TryParse(input, out int n) && n > 0)
+    Console.WriteLine("Masukkan username anda: ");
+    string username = Console.ReadLine();
+
+    Console.WriteLine("Masukkan password anda: ");
+    string password = Console.ReadLine();  
+
+    if (username == correctUsername && password == correctPassword)
     {
-        for (int i = n; i > 0; i--)
-        {
-            for (int j = 0; j <= n - i; j++)
-            {
-                Console.Write("*");
-            }
-            Console.WriteLine();
-            Thread.Sleep(500);
-        }
-        break;
+        Console.WriteLine("Login berhasil! Selamat datang, " + username + "!");
+        break;  
     }
     else
     {
-        Console.WriteLine("Invalid input, please enter a real number.");
+        Console.WriteLine("Username atau password salah. Silakan coba lagi.");
     }
 }
